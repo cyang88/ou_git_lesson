@@ -1,0 +1,6 @@
+data/
+
+*.data
+*.dat
+*.o
+*.class
